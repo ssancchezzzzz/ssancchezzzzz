@@ -31,7 +31,7 @@ Incluye diseño moderno, uso de Flexbox, Grid y Media Queries.
 https://ssancchezzzzz.github.io/2026master/
 
 🔗 Repositorio:
-https://github.com/ssanchezzzzz/2026master
+https://github.com/ssancchezzzzz/2026master
 
 ---
 
