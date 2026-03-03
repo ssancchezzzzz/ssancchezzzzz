@@ -28,10 +28,10 @@ Aplicación web responsive desarrollada únicamente con HTML y CSS.
 Incluye diseño moderno, uso de Flexbox, Grid y Media Queries.
 
 🔗 Deploy:
-https://ssanchezzzzz.github.io/master2026/
+https://ssancchezzzzz.github.io/2026master/
 
 🔗 Repositorio:
-https://github.com/ssanchezzzzz/master2026
+https://github.com/ssanchezzzzz/2026master
 
 ---
 
