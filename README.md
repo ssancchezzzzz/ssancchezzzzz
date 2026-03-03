@@ -39,11 +39,17 @@ https://github.com/ssancchezzzzz/2026master
 
 Repositorio donde desarrollo ejercicios prácticos y proyectos académicos en Java orientados a reforzar lógica y programación orientada a objetos.
 
+🔗 Repositorio:
+https://github.com/ssancchezzzzz/Java
+
 ---
 
 ### 🗄 Base de Datos
 
 Trabajos y prácticas relacionadas con modelado de datos, consultas SQL y estructura de bases de datos.
+
+🔗 Repositorio:
+https://github.com/ssancchezzzzz/Base-de-Datos
 
 ---
 
